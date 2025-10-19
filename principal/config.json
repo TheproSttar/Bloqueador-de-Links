@@ -1,0 +1,12 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+  "canalVozId": "1428847231318102057",
+  "status": [
+    "Shark Accounts - System V2",
+    "Shark Accounts - Melhores produtos da Roblox",
+    "Shark Accounts - Seguro, e cabe no seu bolso"
+  ],
+   "statusIntervalSeconds": 10,
+  "statusUrl": "https://twitch.tv/discord",
+  "autoDeploy": true
+}
